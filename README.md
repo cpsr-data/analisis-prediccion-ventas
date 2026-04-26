@@ -2,7 +2,7 @@
 
 ## 🧠 Problema de negocio
 
-En un entorno competitivo, las empresas necesitan comprender el comportamiento de sus ventas para tomar decisiones estratégicas y optimizar su desempeño.
+En un entorno competitivo, las empresas necesitan comprender el comportamiento de sus ventas para tomar decisiones estratégicas y optimizar su desempeño. Se busca comprender el desempeño de las diferentes categorías de productos y su evolución a lo largo del tiempo.
 
 ---
 
@@ -28,15 +28,15 @@ El análisis se realizó con un dataset que incluye:
 
 ## 📈 Insights
 
-- Un grupo reducido de productos concentra la mayoría de las ventas  
-- Existen variaciones en la demanda a lo largo del tiempo  
-- Se detectaron valores atípicos  
+- Un grupo reducido de productos concentra la mayoría de las ventas, lo que indica una distribución desigual del desempeño comercial  
+- Se identificaron patrones de ventas a lo largo del tiempo, observando variaciones por semana y diferencias significativas entre productos  
+- Se detectaron valores atípicos que podrían estar asociados a promociones, eventos específicos o errores en los datos  
 
 ---
 
 ## 💡 Recomendaciones
 
-- Enfocar estrategias en productos clave  
+- Priorizar los productos con mayor volumen de ventas mediante estrategias de marketing y abastecimiento 
 - Optimizar inventario  
 - Implementar modelos predictivos  
 
